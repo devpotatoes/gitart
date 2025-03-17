@@ -1,0 +1,370 @@
+{
+    "86af8e86-ec5d-42d3-9778-bdf358c8ebc0": {
+        "en": "Sign in",
+        "fr": "Se connecter"
+    },
+    "ef152482-97b0-489f-b959-f89251b20d30": {
+        "en": "Turn your GitHub history into art",
+        "fr": "Transformez votre historique GitHub en art"
+    },
+    "1c0b2c58-d997-48b7-bc23-19bb2cf466da": {
+        "en": "GitArt is a tool that allows you to add an artistic touch to your GitHub commit history.<br>With this tool, each commit becomes a pixel on the grid.",
+        "fr": "GitArt est un outil qui permet d'ajouter une touche artistique à votre historique de commits sir GitHub.<br>Avec cet outil, chaque commit devient un pixel sur la grille."
+    },
+    "532a2372-f34d-4e2e-a61d-26c3c1f819a7": {
+        "en": "Jan",
+        "fr": "Jan"
+    },
+    "fb2e121f-228a-49a4-b00c-d3a1de1991db": {
+        "en": "Feb",
+        "fr": "Fév"
+    },
+    "08a92744-c3f9-48ed-aeab-01849a17425a": {
+        "en": "Mar",
+        "fr": "Mar"
+    },
+    "3275471d-6a93-42aa-8368-5ec7bc98df1c": {
+        "en": "Apr",
+        "fr": "Avr"
+    },
+    "063a6b97-c519-4d14-84a9-db32fcd18ce0": {
+        "en": "May",
+        "fr": "Mai"
+    },
+    "b356f226-956f-4a00-bd03-fc19ecce3fb5": {
+        "en": "Jun",
+        "fr": "Jui"
+    },
+    "cde3b3b9-171f-43b7-a686-23c248d522e3": {
+        "en": "Jul",
+        "fr": "Jui"
+    },
+    "cf1374d7-61ca-4840-b67e-4f64bd736a54": {
+        "en": "Aug",
+        "fr": "Aoû"
+    },
+    "eef93290-56a9-46a4-ab4b-fc6248f4198a": {
+        "en": "Sep",
+        "fr": "Sep"
+    },
+    "99c74761-8b8f-409f-b396-827b96ce2678": {
+        "en": "Oct",
+        "fr": "Oct"
+    },
+    "049ec1bc-8f14-4136-bfb6-e5e276f5abef": {
+        "en": "Nov",
+        "fr": "Nov"
+    },
+    "254b7acc-7dcb-434f-b8b8-e03963106e3d": {
+        "en": "Dec",
+        "fr": "Dec"
+    },
+    "cc09373f-2924-4f16-afdf-688518746ca0": {
+        "en": "Mon",
+        "fr": "Lun"
+    },
+    "06bb3d77-400d-404b-8f20-f34ceabaf355": {
+        "en": "Wed",
+        "fr": "Mer"
+    },
+    "652aa8c7-6507-4c49-90e5-86a1ccf959e7": {
+        "en": "Fri",
+        "fr": "Ven"
+    },
+    "680e4ff3-00af-4fb0-8cb7-364bc88cf8db": {
+        "en": "Less",
+        "fr": "Moins"
+    },
+    "5ec09ce1-e078-4038-b7b4-0ab1fb011e82": {
+        "en": "More",
+        "fr": "Plus"
+    },
+    "a75b6163-f30e-4adf-a30d-6bb189240efb": {
+        "en": "Push your art to GitHub !",
+        "fr": "Publiez votre art sur GitHub !"
+    },
+    "29ee87a4-5227-4229-bfbe-8fcff743f9ff": {
+        "en": "Developped by <a href=\"https://github.com/devpotatoes\" target=\"_blank\">dev.potatoes</a>",
+        "fr": "Développé par <a href=\"https://github.com/devpotatoes\" target=\"_blank\">dev.potatoes</a>"
+    },
+    "0b2c22de-7def-4629-a437-27e7a2b1288b": {
+        "en": "Settings",
+        "fr": "Paramètres"
+    },
+    "6ce543e5-69f8-4fc6-bcf4-d1f285775eed": {
+        "en": "Themes",
+        "fr": "Thèmes"
+    },
+    "45802093-c6b7-4ae7-b386-d9041819a947": {
+        "en": "Light",
+        "fr": "Clair"
+    },
+    "845bfb8c-1524-4f01-80e0-d950935e6ea0": {
+        "en": "Dark",
+        "fr": "Sombre"
+    },
+    "060e6461-f20b-4052-9941-76458d1db70e": {
+        "en": "Your default theme is based on your OS settings.",
+        "fr": "Votre thème par défaut est basé sur les paramètres de votre OS."
+    },
+    "d9133809-5f3a-4a93-be6d-0d1fdfd1b5ed": {
+        "en": "Language",
+        "fr": "Langue"
+    },
+    "8a9e73e3-dd59-47a7-98f0-47180d68dcc5": {
+        "en": "The new language will be applicated after saving changes.",
+        "fr": "La nouvelle langue sera appliquée après la sauvegarde des modifications."
+    },
+    "f630b0eb-7dbd-44e8-a3a1-59dda328dfe8": {
+        "en": "Reset settings",
+        "fr": "Réinitialiser les paramètres"
+    },
+    "61dbc629-1114-4383-b8a6-4eeab46c463a": {
+        "en": "Save settings",
+        "fr": "Sauvegarder les paramètres"
+    },
+    "d4248815-c54e-4983-b600-cceda67a56da": {
+        "en": "Account",
+        "fr": "Compte"
+    },
+    "7c735091-d2c3-4861-abb9-dd8417fc053a": {
+        "en": "Please accept our terms of service before logging in.",
+        "fr": "Veuillez accepter nos conditions d'utilisation avant de vous connecter."
+    },
+    "d60bffe8-ab9f-4a91-a638-7ef502b288b1": {
+        "en": "Your access token is invalid or missing.",
+        "fr": "Votre jeton d'accès est invalide ou manquant."
+    },
+    "3142308b-30d2-4b7a-873f-83886ac8543a": {
+        "en": "Your access token does not have the necessary authorisations.",
+        "fr": "Votre jeton d'accès ne dispose pas des autorisations nécessaires."
+    },
+    "46ddf094-cf08-45cc-acce-7a4c6b4afb75": {
+        "en": "An internal error has occurred. Please try again later.",
+        "fr": "Une erreur interne est survenue. Veuillez réessayer plus tard."
+    },
+    "fe9e11f4-d277-4fe0-bccb-60b6216f1e9c": {
+        "en": "GitHub access token",
+        "fr": "Jeton d'accès GitHub"
+    },
+    "3dccbba2-f26e-4523-a2df-94fbcb055cc8": {
+        "en": "To ensure security, GitArt requires a Personal Access Token.<br>Create a new token <a href=\"https://github.com/settings/tokens/new\" target=\"_blank\">here</a> with full control of private repositories.",
+        "fr": "Pour garantir votre sécurité, GitArt exige un jeton d'accès personnel.<br>Créer un nouveau jeton <a href=\"https://github.com/settings/tokens/new\" target=\"_blank\">ici</a> avec un contrôle total des dépôts privés."
+    },
+    "681c79e5-01c3-42e3-9195-0ee2a35b8ba0": {
+        "en": "I have read and accept the <a href=\"../pages/tos.html\">terms of service</a>",
+        "fr": "J'ai lu et accepte les <a href=\"../pages/tos.html\">conditions d'utilisation</a>"
+    },
+    "9579fea9-553e-47be-b8b3-aa6720602749": {
+        "en": "Use this token",
+        "fr": "Utiliser ce jeton"
+    },
+    "4b4c886a-d185-474d-b4d8-de4b492f59ce": {
+        "en": "Account",
+        "fr": "Compte"
+    },
+    "d76e857b-6e2b-470c-9b29-6e90f6c07254": {
+        "en": "Insufficient permission, you need to grant the \"delete_repo\" scope to your token to perform this action.",
+        "fr": "Permission insuffisante, vous devez accorder l'autorisation \"delete_repo à\" votre token pour effectuer cette action"
+    },
+    "6beefbef-b34d-473e-8829-dec665b19843": {
+        "en": "Your \"gitart-repository\" was successfully deleted.",
+        "fr": "Votre \"gitart-repository\" a été supprimé avec succès."
+    },
+    "e7fafd09-0511-43bd-984d-98b4ec653d83": {
+        "en": "No repository named \"gitart-repository\" found.",
+        "fr": "Aucun dépôt nommé \"gitart-repository\" trouvé."
+    },
+    "b8ecdfdd-75ee-4c50-82cb-56a469c6873e": {
+        "en": "Access token",
+        "fr": "Jeton d'accès"
+    },
+    "f3d12b28-b2a5-4ca7-b3e0-e64fe22ab288": {
+        "en": "Manage your tokens <a href=\"https://github.com/settings/tokens\" target=\"_blank\">here</a>.",
+        "fr": "Gérer vos jetons <a href=\"https://github.com/settings/tokens\" target=\"_blank\">ici</a>."
+    },
+    "c78789c8-f1c2-4b3a-b2f9-622952eac371": {
+        "en": "You used <span class=\"tokenRequestUsedText\"></span> requests out of <span class=\"tokenRequestRateLimitText\"></span> authorised by your token.",
+        "fr": "Vous avez utilisé <span class=\"tokenRequestUsedText\"></span> requêtes sur les <span class=\"tokenRequestRateLimitText\"></span> autorisées par votre token."
+    },
+    "979bf231-5153-4313-9812-c7978a7b5b8e": {
+        "en": "The limit will be reset in <span class=\"tokenResetTimeText\"></span>min.",
+        "fr": "La limite sera réinitialisée dans <span class=\"tokenResetTimeText\"></span>min."
+    },
+    "c2160b6b-8848-4ac4-835b-0c33784a820c": {
+        "en": "Revert commits",
+        "fr": "Revenir sur les commits"
+    },
+    "92e0b8e6-785e-42f2-aafb-6fd25b1b7822": {
+        "en": "Sign out",
+        "fr": "Se déconnecter"
+    },
+    "1c736198-9c39-45b3-b57c-3d8cba8056c6": {
+        "en": "You must be signed in to perform this action.",
+        "fr": "Vous devez être connecté pour effectuer cette action."
+    },
+    "6d893dba-b83c-437c-829f-67266245d630": {
+        "en": "You can't push an empty history, please select at least one date.",
+        "fr": "Vous ne pouvez pas push un historique vide, veuillez sélectionner au moins une date."
+    },
+    "05503e01-a61f-486e-8571-21c830edc77f": {
+        "en": "Access error: Your token might be invalid or expired. Please check its validity and permissions.",
+        "fr": "Erreur d'accès : Votre jeton d'accès pourrait être invalide ou expiré. Veuillez vérifier sa validité et ses autorisations."
+    },
+    "2790ddf0-2fa3-4047-b8f2-0cffbed44914": {
+        "en": "Loading in progress",
+        "fr": "Chargement en cours"
+    },
+    "c8e22d35-ff5e-42ca-8b1c-b1893b869adc": {
+        "en": "Loading complete",
+        "fr": "Chargement terminé"
+    },
+    "da16b3fb-5e3c-43ee-806a-620c1d95c10e": {
+        "en": "This process may take several minutes.<br>Do not close this page or your browser or you will lose your progress.",
+        "fr": "Ce processus peut prendre plusieurs minutes.<br>Ne fermez pas cette page ou votre navigateur ou vous perdrez votre progression."
+    },
+    "67d2b3af-20b5-4480-9c8a-335dbb8855d2": {
+        "en": "Your piece of art has been successfully pushed.",
+        "fr": "Votre œuvre d'art a été push avec succès."
+    },
+    "f385e8cf-f644-41d3-b2d4-3e376e24120c": {
+        "en": "Limit reached, please wait a few minutes until the limit resets.",
+        "fr": "Limite atteinte, veuillez patienter quelques minutes avant que la limite se réinitialise."
+    },
+    "2baae925-eafe-4c32-beba-8a5aeeeec68f": {
+        "en": "Please wait a moment...",
+        "fr": "Veuillez patienter un instant..."
+    },
+    "dd1cd493-58c5-42ec-84f6-17864b955083": {
+        "en": "Thanks for waiting.",
+        "fr": "Merci d'avoir attendu."
+    },
+    "c8b04551-8c88-417e-bd80-7787177aa203": {
+        "en": "Close",
+        "fr": "Fermer"
+    },
+    "a08f6a79-0a42-44d3-95fc-32f0a6e5b7c8": {
+        "en": "GitArt Terms of Service",
+        "fr": "Conditions Générales d'Utilisation de GitArt"
+    },
+    "48922e35-677b-4d01-8b13-d2bcf0e2258d": {
+        "en": "Last Updated: 16 March 2025",
+        "fr": "Dernière mise à jour: 16 Mars 2025"
+    },
+    "ddd999c9-e1fc-4c52-bdf1-85489c5b7787": {
+        "en": "Welcome to GitArt! By using our application, you agree to these Terms and Conditions of Service (TOS). Please read them carefully.",
+        "fr": "Bienvenue sur GitArt ! En utilisant notre application, vous acceptez ces Conditions Générales d'Utilisation (CGU). Veuillez les lire attentivement."
+    },
+    "ca67a0d5-a69c-42fb-95b4-1e649d3e024f": {
+        "en": "This application is currently in BETA.<br>It may contain bugs or incomplete features. If you encounter any issues, please report them by opening an issue on our GitHub: <a href=\"https://github.com/devpotatoes/gitart/issues\" target=\"_blank\">GitArt issue section</a>.",
+        "fr": "Cette application est actuellement en BETA.<br>Elle peut contenir des bugs ou des fonctionnalités incomplètes. Si vous rencontrez un problème, merci de le signaler en ouvrant une issue sur notre GitHub: <a href=\"https://github.com/devpotatoes/gitart/issues\" target=\"_blank\">GitArt issue section</a>."
+    },
+    "a7effaae-b3b3-4fee-b5b0-ce83a3141af5": {
+        "en": "1. Definitions",
+        "fr": "1. Définitions"
+    },
+    "82c70ab1-025b-446f-8507-ccce249268cb": {
+        "en": "\"GitArt\", \"We\" and \"Us\" refer to the GitArt team.",
+        "fr": "\"GitArt\", \"Nous\" et \"Notre\" désignent l'équipe GitArt."
+    },
+    "beca0ac0-e4b4-4ae8-b183-a07db39c7993": {
+        "en": "\"The User\", \"You\" and \"Your\" refer to the individual person, company, or organization that is using the Website or Service.",
+        "fr": "\"L'Utilisateur\", \"Vous\" et \"Votre\" désignent la personne, l'entreprise ou l'organisation qui utilise le site Web ou le service."
+    },
+    "0f0b9530-665d-483a-a687-464e7654da7a": {
+        "en": "The \"Service\" refers to the applications, software, products, and services provided by GitArt.",
+        "fr": "Le \"Service\" désigne les applications, logiciels, produits et services fournis par GitArt."
+    },
+    "c501409f-f531-4440-8180-5edec84de695": {
+        "en": "2. Conditions of Use",
+        "fr": "2. Conditions d'Utilisation"
+    },
+    "13f5ebb6-b780-4761-a941-02d242a3aed1": {
+        "en": "We provide our services to you under the conditions stated in this document. Every time you sign in to your GitHub account through your token or use our service, you accept these conditions.",
+        "fr": "Nous vous fournissons nos services sous réserve des conditions énoncées dans ce document. Chaque fois que vous vous connectez à votre compte GitHub via votre token ou utilisez notre service, vous acceptez ces conditions."
+    },
+    "3cbb3b78-4f4f-41d3-99d3-9bacfd61c5b2": {
+        "en": "3. Privacy Policy",
+        "fr": "3. Politique de Confidentialité"
+    },
+    "64adcb42-be35-4ad1-93bc-5d8f811d8ead": {
+        "en": "GitArt does not collect any user data. All information necessary for the proper functioning of the service is stored locally in the sessionStorage, localStorage, or indexedDB.",
+        "fr": "GitArt ne collecte aucune donnée utilisateur. Toutes les informations nécessaires au bon fonctionnement du service sont stockées localement dans le sessionStorage, localStorage ou indexedDB."
+    },
+    "57e5fd37-c3ce-45d6-bd12-c75b5da243ef": {
+        "en": "4. User Responsibility and Security",
+        "fr": "4. Responsabilité et Sécurité de l'Utilisateur"
+    },
+    "2f9cb5a6-bdfd-4d09-9466-fb7b5669ff8e": {
+        "en": "Once you are signed in, you are solely responsible for your session and its security. This includes safeguarding authentication tokens and preventing unauthorized access. We are not liable for any issues arising from compromised tokens. However, we strive to implement the highest security measures to protect sensitive information stored locally.",
+        "fr": "Une fois connecté, vous êtes seul responsable de votre session et de sa sécurité. Cela inclut la protection des tokens d'authentification et la prévention des accès non autorisés. Nous ne sommes pas responsables des problèmes résultant d'un token compromis. Cependant, nous nous efforçons de mettre en œuvre les mesures de sécurité les plus strictes pour protéger les informations sensibles stockées localement."
+    },
+    "70236290-3f48-4fc5-b2bc-4f9465854404": {
+        "en": "5. Responsibility for Uploaded Content",
+        "fr": "5. Responsabilité du Contenu Téléversé"
+    },
+    "8817df57-d1c3-4cdd-abb2-1adb9bafb8d4": {
+        "en": "We are not responsible for any patterns, designs, or other content pushed to GitHub through our application. Users must comply with <a href=\"https://docs.github.com/en/site-policy/github-terms/github-terms-of-service\">GitHub's policies and guidelines</a> regarding uploaded content. Any violation of GitHub's rules is the sole responsibility of the user.",
+        "fr": "Nous ne sommes pas responsables des motifs, dessins ou autres contenus envoyés sur GitHub via notre application. Les utilisateurs doivent respecter les <a href=\"https://docs.github.com/en/site-policy/github-terms/github-terms-of-service\">politiques et directives de GitHub</a> concernant le contenu téléversé. Toute violation des règles de GitHub est de la seule responsabilité de l'utilisateur."
+    },
+    "3e69dea1-46c1-4dce-991d-8e41d6f095d0": {
+        "en": "6. Limitations and Display Issues on GitHub",
+        "fr": "6. Limitations et Problèmes d'Affichage sur GitHub"
+    },
+    "dc12752f-2777-4fde-ae32-a3a9c83fc61c": {
+        "en": "Our service allows generating commits with past or future dates to provide its features. This behavior is intentional and aligns with Git's functionality. However, after using our service, users may notice that the year selection buttons on their GitHub profile display a wider range of years than expected (specifically, the years in which you have pushed your art). This is a normal behavior on GitHub's side, and even after using the \"Revert Commits\" feature, these buttons will not immediately disappear.",
+        "fr": "Notre service permet de générer des commits avec des dates passées ou futures afin de proposer ses fonctionnalités. Ce comportement est intentionnel et conforme aux fonctionnalités de Git. Cependant, après l'utilisation de notre service, les utilisateurs peuvent remarquer que les boutons de sélection d'année sur leur profil GitHub affichent une plage d'années plus large que prévu (plus précisément, les années sur lesquelles vous avez push votre art). Il s'agit d'un comportement normal du côté de GitHub et, même après avoir utilisé la fonctionnalité \"Revenir sur les commits\", ces boutons ne disparaîtront pas immédiatement."
+    },
+    "771688f4-4af1-41ec-a070-1677aca022d3": {
+        "en": "Since this display is entirely managed by GitHub, there is no immediate way to remove it. However, deleted repositories are permanently purged 90 days after deletion, which will result in the removal of the extra years. If you wish to correct this display sooner, we recommend contacting GitHub support, provided you have the necessary subscription for this request. If a more direct solution becomes available in the future, we will implement it as soon as possible.",
+        "fr": "Cet affichage étant entièrement géré par GitHub, il n'existe pas de solution immédiate pour le supprimer. Toutefois, les repositories supprimés sont définitivement purgés 90 jours après leur suppression, ce qui entraînera la disparition des années supplémentaires. Si vous souhaitez corriger cet affichage plus rapidement, nous vous recommandons de contacter le support de GitHub, à condition de disposer de l'abonnement nécessaire pour cela. Si une solution plus directe devient disponible à l'avenir, nous l'implémenterons dès que possible."
+    },
+    "8bb335ea-244f-4e5a-8681-f29590aeb871": {
+        "en": "7. Intellectual Property",
+        "fr": "7. Propriété Intellectuelle"
+    },
+    "24a2ef9e-ce63-4632-b0f6-c3885e056469": {
+        "en": "All content available on the application (texts, images, logos, etc...) is protected by intellectual property rights and may not be used without authorization.",
+        "fr": "Tout le contenu disponible sur l'application (textes, images, logos, etc...) est protégé par des droits de propriété intellectuelle et ne peut être utilisé sans autorisation."
+    },
+    "99a1c5e6-1b5b-4b22-b5a6-7a1f67705bd5": {
+        "en": "8. Liability",
+        "fr": "8. Responsabilité"
+    },
+    "264cd1c6-b993-4901-b560-94a0daa08829": {
+        "en": "We strive to ensure the availability and security of the application, but we do not guarantee uninterrupted or error-free operation.",
+        "fr": "Nous nous efforçons d'assurer la disponibilité et la sécurité de l'application, mais nous ne garantissons pas un fonctionnement ininterrompu ou sans erreur."
+    },
+    "21fd09d0-619d-43d4-9ae5-783621966715": {
+        "en": "We shall not be held liable for any damages resulting from the use of the application.",
+        "fr": "Nous ne pouvons être tenus responsables des dommages résultant de l'utilisation de l'application."
+    },
+    "1e75acf0-eb56-45e1-bf2d-d4379ce65804": {
+        "en": "9. Changes to the Terms",
+        "fr": "9. Modifications des Conditions"
+    },
+    "b0c5c143-2b45-4f13-ab47-3186fa65c003": {
+        "en": "We reserve the right to modify these TOS at any time. Changes will be effective upon their publication on the application. It is your responsibility to regularly review these terms.",
+        "fr": "Nous nous réservons le droit de modifier ces CGU à tout moment. Les modifications prendront effet dès leur publication sur l'application. Il est de votre responsabilité de consulter régulièrement ces conditions."
+    },
+    "233ef516-540d-460c-9bfb-b20bc6cb77d5": {
+        "en": "10. Contact",
+        "fr": "10. Contact"
+    },
+    "21390d31-cde7-4424-9f64-418ca0462511": {
+        "en": "For any questions or complaints regarding these terms, you can contact us at: <a href=\"mailto:dev.potatoes2.0@gmail.com\">dev.potatoes2.0@gmail.com</a>.",
+        "fr": "Pour toute question ou réclamation concernant ces conditions, vous pouvez nous contacter à: <a href=\"mailto:dev.potatoes2.0@gmail.com\">dev.potatoes2.0@gmail.com</a>."
+    },
+    "6d642451-d6aa-42c8-9207-67afdd347b4d": {
+        "en": "For any questions about the application code or if you encounter any errors, you can reach us through the issue section on our official GitHub repository at: <a href=\"https://github.com/devpotatoes/gitart/issues\" target=\"_blank\">GitArt issue section</a>.",
+        "fr": "Pour toute question concernant le code de l'application ou si vous rencontrez des erreurs, vous pouvez nous contacter via la section des issues sur notre dépôt GitHub officiel à: <a href=\"https://github.com/devpotatoes/gitart/issues\" target=\"_blank\">section issue de GitArt</a>."
+    },
+    "0a089cec-cfb2-4ba9-8325-cbf80435035f": {
+        "en": "By using GitArt, you acknowledge that you have read and accepted these terms.",
+        "fr": "En utilisant GitArt, vous reconnaissez avoir lu et accepté ces conditions."
+    },
+    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
+        "en": "An error occurred during translation.",
+        "fr": "Une erreur s'est produite lors de la traduction."
+    }
+}
